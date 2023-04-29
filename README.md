@@ -2,9 +2,12 @@
 
 # Driver segment among subscribers
 
-Архів містить 4 файли
+Архів містить 4 файли:
 
-tabular_data.csv, hashed_feature.csv, train.csv, test.csv.
+- tabular_data.csv;
+- hashed_feature.csv;
+- train.csv;
+- test.csv.
 
 Необхідно побудувати модель, що виявлятиме сегмент водіїв серед абонентів ПрАТ «Київстар».
 
