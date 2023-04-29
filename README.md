@@ -1,3 +1,7 @@
+![alt text](https://cdn1.ntv.com.tr/gorsel/fkztE-P0aUiPVqyCb8p99A.jpg?width=1200&height=675&mode=crop&scale=both&v=1426049998989&meta=rectangle)
+
+
+
 Архів містить 4 файли
 
 tabular_data.csv, hashed_feature.csv, train.csv, test.csv.
